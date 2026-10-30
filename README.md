@@ -1,0 +1,2 @@
+# FridayStory
+Roguelike Maplestory
